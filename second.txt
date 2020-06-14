@@ -5,3 +5,4 @@ test
 
 Development test
 Commit changes
+Standard
