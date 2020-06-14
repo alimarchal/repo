@@ -1,8 +1,1 @@
-How are you?
-Added second.txt
-
-test
-
-Development test
-Commit changes
-Standard
+Remove
